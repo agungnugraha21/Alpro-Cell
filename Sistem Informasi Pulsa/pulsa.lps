@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="pulsa.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="pulsa"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="7"/>
+        <CursorPos X="91" Y="26"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="2" HistoryIndex="1">
+      <Position1>
+        <Filename Value="pulsa.lpr"/>
+        <Caret Line="24" Column="57" TopLine="1"/>
+      </Position1>
+      <Position2>
+        <Filename Value="pulsa.lpr"/>
+        <Caret Line="26" Column="18" TopLine="1"/>
+      </Position2>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
